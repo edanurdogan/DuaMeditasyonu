@@ -10,3 +10,6 @@ Giriş yapan kullanıcıya Ana sayfada seçenek olarak ruh haline ya da isteğin
 Kullanıcıya Zikirmatik ekranından zikirmatik yapma ve zikri kaydetme seçeneği sunulur.
 
 Proje iyileştirilmeye ve geliştirilmeye devam etmektedir.
+
+
+Projemde React Native'den ve js kütüphanelerinden yararlandım
